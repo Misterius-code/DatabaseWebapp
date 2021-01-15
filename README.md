@@ -3,6 +3,7 @@ Welcome to small webapp which contains information about terrorist attacks.
 
 ## Getting Started
 Please Unzip terrorism.zip     It sounds like virus but it is just harmless json file
+
 Please make sure you firstly have Node JS and mongoGB
 
 Please firstly install all necessary dependecies by comand:
